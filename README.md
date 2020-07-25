@@ -6,3 +6,4 @@
 * All three models are compared using five fold cross validation measuring accuracy, precision, recall, and f1 score
 * The best performing model is the random forest model, which is used to create predict survivorship for the 418 observations in the test dataset
 * See detailed analysis [here](https://github.com/mileslucey/titanic_problem/blob/master/titanic_analysis.ipynb)
+* For any feedback or questions, please comment on [my Kaggle notebook analysis] (https://www.kaggle.com/mileslucey/titanic-problem)
